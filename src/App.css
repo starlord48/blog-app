@@ -1,0 +1,21 @@
+.main{
+  display: flex;
+}
+.first{
+  flex:1
+}
+.sec{
+  flex:1;
+}
+.third{
+  flex:1;
+}
+.four{
+  flex:1;
+}
+.home{
+  flex:1;
+}
+.first1{
+  flex:1;
+}

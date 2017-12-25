@@ -1,0 +1,54 @@
+.body{
+margin-left: 300px;
+font-size: 20px;
+margin-top:15px;
+padding: 15px;
+color:#049fd5;
+font-weight: 1px;
+}
+.user{
+  margin-top: 30px;
+  color:#dd4e42;
+}
+.image{
+margin-left: 90px;
+height: 650px;
+width:1500px;
+position: fixed;
+background-image: url("../img/comp.jpeg");
+background-repeat: no-repeat;
+
+}
+.landing{
+  display:'flex';
+  margin-left: 300px;
+
+}
+.post1{
+flex:1;
+}
+.body1,.body2,.body3{
+flex:1;
+padding:50px;
+background: #1e92f7;
+margin-right:50px;
+font-size:20px;
+color:#fff;
+margin-top:50px;
+margin-bottom: 50px;
+}
+.post2{
+flex:1;
+}
+.body2{
+flex:1;
+background:#29ae79;
+}
+.post3{
+flex:1;
+
+}
+.body3{
+flex:1;
+background:#dd4e42;
+}

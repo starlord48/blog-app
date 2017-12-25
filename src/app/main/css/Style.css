@@ -1,0 +1,35 @@
+.menu{
+  font-size: 25px;
+  background: #21252b;
+  width:280px;
+  height: 636px;
+  color: #fff;
+  padding: 20px;
+  position: fixed;
+  z-index: 2;
+}
+.wrap{
+  padding: 20px;
+  line-height: 45px;
+  position: absolute;
+
+}
+.list{
+  text-decoration: none;
+  color:#fff;
+}
+.line{
+  color:#fff;
+  height:1px;
+  width:250px;
+  margin-top:240px;
+  margin-left: 20px;
+  border:0.5px #fff solid;
+}
+.fa{
+  font-size: 20px;
+  height: 20px;
+  color: #fff;
+  width: 20px;
+  margin-right: 10px;
+}
